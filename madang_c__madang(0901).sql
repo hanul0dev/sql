@@ -71,5 +71,5 @@ select orderid from orders where orderdate not between '23/01/01' and '23/04/01'
 --성이 김씨인 고객의 이름과 주소
 select name,address from customer where name like '김%';
 --성이 김씨이고 이름이 아로 끝나는 고객의 이름과 주소
-select name,address from customer where name like '김_아';
+select name,address from customer where name like '김%아';
 
