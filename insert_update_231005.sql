@@ -1,0 +1,1 @@
+빈 패키지 INSERTORUPDATE 정의(공용 멤버 없음)
